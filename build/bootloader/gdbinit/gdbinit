@@ -1,0 +1,2 @@
+source /home/edv/Documents/Codes/Flow-DHT/build/bootloader/gdbinit/symbols
+source /home/edv/Documents/Codes/Flow-DHT/build/bootloader/gdbinit/connect

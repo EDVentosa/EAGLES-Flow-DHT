@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/edv/Documents/Codes/Flow-DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
